@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola Mundo👋
 
-<!--
-**Mayemm99/Mayemm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente Estudio y trabajo, y cada día es la oportunidad de practicar lo aprendido.
+## Experiencia.
+* Tecnico en Sistemas de seguridad y control de acceso
+* Tecnico en telecomunicaciones por fibra optica.
+* Tenico en climatizacion residenrcial.
+* Instalaciones electricas residencial e industriales.
+* Tecnico en sistemas y mantenimiento de Pc y consolas de videojuegos.
+* Habilidades de soldador en acero dulce.
+* Venta sugestiva y atencion al cliente.
+### Proyecto de vida
+Mi primero objetivo es terminar la carrera, a los casi 30 años las obligaciones de la vida real no perdonan
 
-Here are some ideas to get you started:
+madrugar a diario, trabajar, estudiar, desvelarse con tareas, dedicar tiempo a la familia y uno mismo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+es una labor titanica y por lo que terminar la ingenieria ya es de momento mi objetivo mas ambicioso. 
+
+**A LARGO PLAZO...**
+* Me gustaria especializarme en el area de redes, destacar en el medio y fundar una empresa dedicada
+
+al servicio de infraestructura de redes para empresas.
+
+* la doscencia es otra area que me interesa pues me gusta enseñar y devolver a la comunidad lo bueno que recibí de ella.
+
+* En lo personal espero poder viajar por el mundo, disfrutar del fruto de mi trabajo y darle a mi familia una buena vida.
+
 -->
